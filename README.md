@@ -1,7 +1,7 @@
 # HM-BidCos-NetzausfallMelder
 
 Desöfteren kommen Fragen aus dem RaspberryMatic oder auch CCU2-Bereich, wie man denn das Powerbank-gepufferte Gerät bei einem Stromausfall geordnet herunterfahren kann.<br>
-Ich habe auf einen Arduino Pro Mini mit angeschlossenem CC1101-868MHz Funkmodul den Sketch des [1-Kanal-Senders](https://github.com/…/…/master/examples/HM-RC-P1/HM-RC-P1.ino) aus der [AskSinPP Library](https://github.com/pa-pa/AskSinPP) geflasht.<br>
+Ich habe auf einen Arduino Pro Mini mit angeschlossenem CC1101-868MHz Funkmodul den Sketch des [1-Kanal-Senders](https://github.com/pa-pa/AskSinPP/blob/master/examples/HM-RC-P1/HM-RC-P1.ino) aus der [AskSinPP Library](https://github.com/pa-pa/AskSinPP) geflasht.<br>
 An den Tastereingang ist ein ATTiny85 angeschlossen.<br>
 Dieser überwacht die 5V-Eingangsspannung vom USB-Kabel.<br>
 Ist der Strom weg, sendet der mit einer CR2032 gepufferte Arduino einen "kurzen Tastendruck" per Funk an CCU.<br>
