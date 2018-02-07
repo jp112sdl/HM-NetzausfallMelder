@@ -1,6 +1,6 @@
 # HM-NetzausfallMelder
 
-<img src="https://github.com/jp112sdl/HM-BidCos-NetzausfallMelder/blob/master/Images/Gesamt_Oben.jpg" width=200><img src="https://github.com/jp112sdl/HM-BidCos-NetzausfallMelder/blob/master/Images/Gesamt_Unten.jpg" width=200><img src="https://github.com/jp112sdl/HM-BidCos-NetzausfallMelder/blob/master/Images/Gesamt_Oben_Detail.jpg" width=200>
+<img src="https://github.com/jp112sdl/HM-NetzausfallMelder/blob/master/Images/Gesamt_Oben.jpg" width=200><img src="https://github.com/jp112sdl/HM-NetzausfallMelder/blob/master/Images/Gesamt_Unten.jpg" width=200><img src="https://github.com/jp112sdl/HM-NetzausfallMelder/blob/master/Images/Gesamt_Oben_Detail.jpg" width=200>
 <br>
 
 ![wiring](Images/wiring.png)
